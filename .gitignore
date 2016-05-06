@@ -1,11 +1,16 @@
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
+# dependências
+node_modules
 
-# Other files and folders
-.settings/
+# Gerado por compilação
+primeng.js
+componentes / ** / *. js
+showcase / *. js
+showcase / demo / ** / *. js
+*.mapa
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Definição de tipo
+tipagens
+* .d.ts
+! showcase / Resources / primeui / primeui.d.ts
+
+# misc 
